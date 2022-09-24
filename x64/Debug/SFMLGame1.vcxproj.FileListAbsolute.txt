@@ -1,0 +1,2 @@
+C:\Users\Ky\Desktop\SFMLGame1\x64\Debug\SFMLGame1.exe
+C:\Users\Ky\Desktop\SFML projects\SFMLGame1\x64\Debug\SFMLGame1.exe
